@@ -58,13 +58,7 @@ This Power BI project analyzes Nike's sales data to understand **key trends, cus
 
 ## 📁 Project Files  
 📌 **Nike Sales Analysis.pbix** → Power BI Dashboard  
-📊 **Data/** → Raw data files *(if applicable)*  
-📷 **Screenshots/** → Dashboard previews *(optional)*  
-
-## 📷 Dashboard Preview  
-*(Insert images of your Power BI dashboard here for a quick overview.)*  
-
----
+📊 **Data/** → Raw data files
 
 ## 🚀 How to Use  
 1️⃣ **Download the `.pbix` file**.  
@@ -76,6 +70,6 @@ This Power BI project analyzes Nike's sales data to understand **key trends, cus
 ## 🔗 Connect with Me  
 👤 **Ashad K**  
 📧 [ashadakber32@gmail.com](mailto:ashadakber32@gmail.com)  
-🔗 [GitHub](https://github.com/ashad-k)  
-🔗 [LinkedIn](https://linkedin.com/in/Ashad777)  
+🔗 [GitHub](https://github.com/Ashad777)  
+🔗 [LinkedIn](https://linkedin.com/in/ashad-k)  
 
